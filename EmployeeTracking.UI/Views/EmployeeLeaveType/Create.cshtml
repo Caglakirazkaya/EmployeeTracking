@@ -1,0 +1,21 @@
+﻿@using EmployeeTracking.Common.ViewModel
+@model EmployeeLeaveTypeVM
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Create" asp-controller="EmployeeLeaveType">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label for="exampleInputEmail1">İsim Giriniz</label>
+        <input type="text" class="form-control" id="exampleInputName" placeholder="Enter Name" asp-for="Name">
+    </div>
+    <input type="submit" class="btn btn-success" value="Gönder" />
+    <button type="button" class="btn btn-outline-info" onclick="deleteFormData()">Reset</button>
+</form>
+<script type="text/javascript">
+    function deleteFormData() {
+        document.forms[0].reset();
+    }
+</script>
