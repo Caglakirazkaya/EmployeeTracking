@@ -1,0 +1,10 @@
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\bin\Debug\netcoreapp3.1\EmployeeTracking.Data.deps.json
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\bin\Debug\netcoreapp3.1\EmployeeTracking.Data.dll
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\bin\Debug\netcoreapp3.1\EmployeeTracking.Data.pdb
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.csproj.AssemblyReference.cache
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.AssemblyInfoInputs.cache
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.AssemblyInfo.cs
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.csproj.CoreCompileInputs.cache
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.dll
+C:\Users\cagla\source\repos\EmployeeTracking\EmployeeTarcking.Data\obj\Debug\netcoreapp3.1\EmployeeTracking.Data.pdb
